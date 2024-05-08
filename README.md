@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/christian.gatto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian.gatto)
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF0000.svg?logo=gmail&logoColor=white)](mailto:christian.gatto238@gmail.com) 
 
 # 💻 Tech Stack:
